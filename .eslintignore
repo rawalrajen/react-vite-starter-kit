@@ -1,0 +1,7 @@
+.eslintrc.json
+
+vite.config.ts
+
+node_modules
+
+/src/vite-env.d.ts
